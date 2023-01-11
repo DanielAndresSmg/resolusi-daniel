@@ -1,3 +1,5 @@
 Relusi :
 bulan 1 = masuk mbkm
 bulan 2 = lebih baik
+bulan 3 = jadi lebih jago ngoding
+balan 4 = dapat cuan
