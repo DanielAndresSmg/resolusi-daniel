@@ -1,0 +1,3 @@
+Relusi :
+bulan 1 = masuk mbkm
+bulan 2 = lebih baik
